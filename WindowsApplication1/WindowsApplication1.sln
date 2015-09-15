@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.vbproj", "{2C09A745-4A4A-4B8E-B8C9-0F686A1B003C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C09A745-4A4A-4B8E-B8C9-0F686A1B003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C09A745-4A4A-4B8E-B8C9-0F686A1B003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C09A745-4A4A-4B8E-B8C9-0F686A1B003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C09A745-4A4A-4B8E-B8C9-0F686A1B003C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
